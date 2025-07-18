@@ -2,7 +2,7 @@
 __pycache__/
 
 # 仮想環境
-.venv_max/
+venv/
 
 # VSCode
 .vscode/
